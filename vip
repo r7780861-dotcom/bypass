@@ -1,12 +1,5 @@
 {
-  "showDialog": true,
-  "messageText": "New Update Available",
-  "updateButtonText": "",
-  "updateButtonLink": "https://t.me/+6i2Ai_NoRTBiNzQ1",
-  "cancelButtonText": "",
-  "cancelClosesApp": false,
+  "showDialog": false,
   "autoRedirect": true,
-  "dialogBackgroundColor": "#FFFFFF",
-  "textGradientStartColor": "#1E88E5",
-  "textGradientEndColor": "#64B5F6"
+  "redirectLink": "https://t.me/+6i2Ai_NoRTBiNzQ1"
 }
